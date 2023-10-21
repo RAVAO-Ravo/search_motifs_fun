@@ -80,7 +80,3 @@ Selon les conditions suivantes :
 [![Logo CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 [En savoir plus sur la licence CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
----
-
-Profitez de la puissance de la recherche de motifs à l'aide de cet outil polyvalent. Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter.
